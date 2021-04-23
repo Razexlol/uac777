@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- START xml_defaults -->
+<defaultsMap>
+
+    <entry>
+
+        //Updated for UAC-139
+        <key>remoteConfig139</key>
+
+        //Updated for UAC-139
+        <value>remoteConfigDefault139</value>
+
+    </entry>
+
+</defaultsMap>
